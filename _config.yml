@@ -1,7 +1,7 @@
 name: Ziva Dynamics
 favicon: null
-layout_spectrum: 0.7669604278635234
-typography_spectrum: 0.6343425652012229
+layout_spectrum: 0.49399
+typography_spectrum: 0.9169
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#939598'
+    - '#1f3d7c'
+    - '#00a2b1'
+    - '#ffffff'
+    - '#00ffff'
   brandStrength: 0.47904738783836365
   lightness: 0.5728967855684459
-  saturation: 0.5751121041830629
+  saturation: 0.375
   rhythmicContrast: 0.030732161831110716
 purpose: []

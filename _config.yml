@@ -1,6 +1,6 @@
 name: Ziva Dynamics
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.2485
 typography_spectrum: 0.9169
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#00a2b1'
     - '#ffffff'
     - '#00ffff'
-  brandStrength: 0.6875
+  brandStrength: 0.8125
   lightness: 0.125
   saturation: 0
   rhythmicContrast: 0.5
